@@ -1,0 +1,17 @@
+.container {
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+ 
+}
+
+.site-table {
+  border-collapse: collapse; 
+
+}
+.site-table__table-th , .site-table__table-td {
+  text-align: center;
+  padding: 10px;
+
+  border: 2px solid black;
+}
